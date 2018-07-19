@@ -1,5 +1,5 @@
 
-public class HW4_10_3 {
+public class IntegerTest {
 	
 	public static void main(String[] args){
 		
