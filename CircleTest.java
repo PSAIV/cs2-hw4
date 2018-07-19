@@ -1,5 +1,5 @@
 
-public class HW4_13_9 {
+public class CircleTest {
 	
   public static void main(String[] args) {
     Circle circle = new Circle(1);
