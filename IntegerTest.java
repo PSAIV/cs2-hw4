@@ -1,4 +1,4 @@
-
+//Tests the functionality of the MyInteger class to ensure all functions work as intended.
 public class IntegerTest {
 	
 	public static void main(String[] args){
