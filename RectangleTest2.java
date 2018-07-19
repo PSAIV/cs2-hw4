@@ -1,5 +1,5 @@
 
-public class HW4_13_10 {
+public class RectangleTest2 {
 	
 	public static void main(String[] args) {
 		Rectangle rect1 = new Rectangle(1, 1);
