@@ -1,6 +1,8 @@
+//Implementation of the Gregorian Calendar class meant to run in the command line.
+
 import java.util.*;
 
-public class HW4_13_4 {
+public class MyGregorianCalendar {
 	
 	public static void main(String[] args) {
 		
